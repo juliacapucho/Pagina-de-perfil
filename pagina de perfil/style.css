@@ -1,0 +1,26 @@
+.img{
+display: flex;
+ justify-content: center;
+border-radius: 50%;
+}
+.profile{
+color: rgb(100, 20, 175);
+}
+
+.informação{
+color: rgb(5, 5, 121);
+}
+.profile20{
+color:rgb(51, 44, 44) ;
+
+}
+.body{
+    font-family:Geneva;
+}
+h1{
+font-family: Arial;
+}
+.informação{
+
+    
+}
